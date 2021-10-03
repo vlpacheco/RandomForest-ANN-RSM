@@ -21,11 +21,12 @@ For this, the correlation analysis of the variables were explored, as well as th
 
 The fluxogram is shown below: 
 
-![Alt Text](Figures/Fig1.tif) 
+![Alt Text](Figures/flux.jpeg) 
 
 And, the architecture of a general ANN for the study is also shown below:
 
-![Alt Text](Figures/flux.jpeg) 
+![Alt Text](Figures/Fig1.tif) 
+
 
 ## Note
 This repository is an alternative approach to a repository already mentioned within the profile, under the name: Machine-Learning-ANNs-applied-to-Geotechnical-issues.
