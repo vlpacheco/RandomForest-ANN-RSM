@@ -6,7 +6,7 @@ The purpose of the article is to compare the traditional method of the Response 
 In it, the two main Machine Learning methodologies are applied: Random Forest Regressor and Artificial Neural Networks. And also the Multivariate Linear Regression methodology (scikit-learn).
 
 ## Datasets
-The datasets used for the study come from the authors: Okyay and Rodrigues (2014) and Kahani et al. (2020)
+The datasets used for the study come from the authors: Kahani et al. (2020) (Case 01) and Okyay and Rodrigues (2014) (Case 02).
 
 References: 
 
